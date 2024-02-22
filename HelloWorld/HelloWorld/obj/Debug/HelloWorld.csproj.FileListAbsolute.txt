@@ -1,0 +1,5 @@
+C:\Users\xuant\OneDrive\Máy tính\HOCTAP\Git.GitHub\GitHub\TestGitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\xuant\OneDrive\Máy tính\HOCTAP\Git.GitHub\GitHub\TestGitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\xuant\OneDrive\Máy tính\HOCTAP\Git.GitHub\GitHub\TestGitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\xuant\OneDrive\Máy tính\HOCTAP\Git.GitHub\GitHub\TestGitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\xuant\OneDrive\Máy tính\HOCTAP\Git.GitHub\GitHub\TestGitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
